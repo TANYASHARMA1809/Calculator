@@ -1,2 +1,2 @@
 # Calculator
-I  learned HTML and CSS 
+I  learned HTML,CSS and Javascript
